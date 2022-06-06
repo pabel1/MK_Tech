@@ -1,0 +1,23 @@
+.section{
+    background: #2411b068;
+    color:#fff;
+    padding: 20px;
+    display: flex;
+    
+}
+.content-1 li a,.content-2 li a ,.content-3 li a{
+    
+    color:#132347;
+    
+    padding: 20px;
+    font-size: 1rem;
+
+}
+.content-1 li ,.content-2 li,.content-3 li{
+    list-style: none;
+    padding:    8px;
+
+}.content-1 li a i,.content-2 li a i,.content-3 li a i{
+    color: blueviolet;
+
+}

@@ -1,0 +1,23 @@
+h1{
+    color:#22ba9c;
+    font-weight: 600;
+    padding:10px;
+}
+.content button{
+    border:none;
+    outline:none;
+    background-color:#fff;
+    border-left: 2px solid #7765ffbd;
+    font-weight:500;
+    padding:20px 10px;
+    
+}
+.content button span i{
+    color:#412be4bd
+}
+.p__img{
+    padding-top: 20px;
+}
+.Product__section{
+    background: #0a2b1e;
+}
